@@ -57,6 +57,30 @@
   </url>
   
   <url>
+    <loc>https://maikotui.com/de/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maikotui.com/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://maikotui.com/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://maikotui.com/zh-cn/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://maikotui.com/de/contact/"
+                />
+  </url>
+  
+  <url>
     <loc>https://maikotui.com/de/</loc>
     <xhtml:link
                 rel="alternate"
@@ -107,30 +131,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://maikotui.com/de/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://maikotui.com/de/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maikotui.com/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://maikotui.com/es/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://maikotui.com/zh-cn/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://maikotui.com/de/contact/"
                 />
   </url>
   

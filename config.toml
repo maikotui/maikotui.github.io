@@ -2,11 +2,11 @@
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://maikotui.com/"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "Maiko Tuitupou"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
-googleAnalytics         = ""
+googleAnalytics         = "UA-176722663-1"
 pluralizeListTitles     = false
 disableLanguages        = []
 publishDir              = "docs"
@@ -31,23 +31,23 @@ publishDir              = "docs"
   hideEmptyStats        = false
 
   [params.meta]
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
-    author              = "HTML5UP and Hugo"
-    favicon             = false
+    description         = "Maiko Tuitupou's personal portfolio & blog"
+    author              = "Maiko Tuitupou"
+    favicon             = true
     svg                 = true
     faviconVersion      = "1"
-    msColor             = "#ffffff"
+    msColor             = "#00aba9"
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Maiko Tuitupou"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
-    languageMenu        = true
+    languageMenu        = false
 
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
+    header                = "Maiko Tuitupou's Wiring"
     paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
     rssIntro              = true
     socialIntro           = true
@@ -71,7 +71,7 @@ publishDir              = "docs"
     socialFooter        = true
 
   [params.staticman]
-    enabled             = true
+    enabled             = false
     api                 = ""  # No Trailing Slash
     gitProvider         = ""
     username            = ""
