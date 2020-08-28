@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://maikotui.com/categories/</loc>
+    <loc>http://maikotui.com/</loc>
+    <lastmod>2020-08-28T09:05:59-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://maikotui.com/</loc>
+    <loc>http://maikotui.com/posts/my-first-post/</loc>
+    <lastmod>2020-08-28T09:05:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://maikotui.com/posts/</loc>
+    <lastmod>2020-08-28T09:05:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://maikotui.com/categories/</loc>
   </url>
   
   <url>
