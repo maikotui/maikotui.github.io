@@ -1,0 +1,5 @@
+baseURL = "http://maikotui.com/"
+languageCode = "en-us"
+title = "Hugo Quickstart"
+publishDir = "docs"
+theme = "ananke"
