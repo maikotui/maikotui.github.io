@@ -106,6 +106,13 @@ publishDir              = "docs"
     weight            = 3
 
   [[menu.main]]
+    name              = "Resume"
+    identifier        = "resume"
+    url               = "/resume.pdf"
+    pre               = "<i class='far fa-user'></i>"
+    weight            = 4
+
+  [[menu.main]]
     name              = "Categories"
     identifier        = "categories"
     url               = "/categories/"
