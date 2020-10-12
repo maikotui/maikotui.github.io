@@ -48,7 +48,7 @@ publishDir              = "docs"
 
   [params.intro]
     header                = "Maiko Tuitupou's Wiring"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    paragraph             = "Test test"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -326,7 +326,7 @@ publishDir              = "docs"
 
 [social]
   # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
+  github                = "maikotui"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
@@ -334,22 +334,22 @@ publishDir              = "docs"
   codepen               = ""
   # Visual Art Communities
   deviantart            = ""
-  flickr                = "example"
+  flickr                = ""
   behance               = ""
   dribbble              = ""
   # Publishing Communities
   wordpress             = ""
   medium                = ""
   # Professional/Business Oriented Communities
-  linkedin              = "example"
-  linkedin_company      = "examplebusiness"
+  linkedin              = "maikotui"
+  linkedin_company      = ""
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
   # Social Networks
-  facebook              = "example"
+  facebook              = ""
   googleplus            = ""
-  reddit                = "example"
+  reddit                = ""
   quora                 = ""
   youtube               = ""
   vimeo                 = ""
@@ -357,19 +357,19 @@ publishDir              = "docs"
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
-  instagram             = "example"
+  instagram             = "maikotui"
   tumblr                = ""
-  twitter               = "example"
+  twitter               = "maikotui"
   strava                = ""
   skype                 = ""
   snapchat              = ""
-  pinterest             = "example"
-  telegram              = "example"
+  pinterest             = ""
+  telegram              = ""
   vine                  = ""
   googlescholar         = ""
   orcid                 = ""
-  researchgate          = "example"
-  keybase               = "example"
-  mastodon              = "example.com/@example"
+  researchgate          = ""
+  keybase               = ""
+  mastodon              = ""
   # Email
-  email                 = "example"
+  email                 = "tuitupoumaiko@gmail.com"
